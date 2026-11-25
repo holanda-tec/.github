@@ -6,6 +6,6 @@
 
 ---
 
-Sistemas, sites, automação e inteligência artificial para empresas e órgãos públicos.
+Sistemas, sites, automação e inteligência artificial para empresas.
 
 Fortaleza, Ceará · contato: mauriciofholanda@gmail.com
